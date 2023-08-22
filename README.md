@@ -6,4 +6,4 @@
 
 I'm Isaac, full-stack engineer and Co-Founder/CTO of [Alchemy RPG](https://alchemyrpg.com).
 
-🌎 [Website](https://overacker.me) 🐘 [Mastodon](https://hachyderm.io/@voidrender) 🐦 [Twitter](https://twitter.com/ioveracker)
+🌎 [Website](https://overacker.me) 🐘 [Mastodon](https://hachyderm.io/@voidrender)
